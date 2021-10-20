@@ -249,7 +249,7 @@ public class SheepHerder extends BasicQuestHelper
 	@Override
 	public QuestPointReward getQuestPointReward()
 	{
-		return new QuestPointReward(1);
+		return new QuestPointReward(4);
 	}
 
 	@Override
